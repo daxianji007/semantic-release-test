@@ -1,0 +1,14 @@
+{
+  "name": "@shujia-test/semantic-release-test",
+  "version": "1.0.0",
+  "description": "test for semantic-release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shujia@microsoft.com",
+  "license": "ISC",
+  "devDependencies": {
+    "semantic-release": "^19.0.5"
+  }
+}
